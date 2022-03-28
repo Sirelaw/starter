@@ -1,0 +1,77 @@
+[
+    {
+        "id":0,
+        "name":"Swift",
+        "numberOfCapableHumans": 1
+    },
+    {
+        "id":1,
+        "name":"SwiftUI",
+        "numberOfCapableHumans": 1
+    },
+    {
+        "id":2,
+        "name":"Java",
+        "numberOfCapableHumans": 3
+    },
+    {
+        "id":3,
+        "name":"C",
+        "numberOfCapableHumans": 80
+    },
+    {
+        "id":4,
+        "name":"C++",
+        "numberOfCapableHumans": 40
+    },
+    {
+        "id":5,
+        "name":"Kafkajs",
+        "numberOfCapableHumans": 40
+    },
+    {
+        "id":3,
+        "name":"C",
+        "numberOfCapableHumans": 80
+    },
+    {
+        "id":4,
+        "name":"C++",
+        "numberOfCapableHumans": 40
+    },
+    {
+        "id":5,
+        "name":"Kafkajs",
+        "numberOfCapableHumans": 40
+    },
+    {
+        "id":0,
+        "name":"Swift",
+        "numberOfCapableHumans": 1
+    },
+    {
+        "id":1,
+        "name":"SwiftUI",
+        "numberOfCapableHumans": 1
+    },
+    {
+        "id":2,
+        "name":"Java",
+        "numberOfCapableHumans": 3
+    },
+    {
+        "id":3,
+        "name":"C",
+        "numberOfCapableHumans": 80
+    },
+    {
+        "id":4,
+        "name":"C++",
+        "numberOfCapableHumans": 40
+    },
+    {
+        "id":5,
+        "name":"Kafkajs",
+        "numberOfCapableHumans": 40
+    }
+]
